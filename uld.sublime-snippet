@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <ul data-role="listview" data-inset="true">
 	<li data-role="list-divider">${1:title}</li>
-	<li><%= ${2:value} %></li>
+	<li>${2:value}</li>
 </ul>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
